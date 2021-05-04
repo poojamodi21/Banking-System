@@ -2,11 +2,12 @@
 
 **Screenshots**
 
-![Alt text](/SCREENSHOTS/Screenshot 1.png?raw=true "Home Screen")
-![Alt text](/SCREENSHOTS/Screenshot 2.png?raw=true "Customers Table")
-![Alt text](/SCREENSHOTS/Screenshot 3.png?raw=true "Execute Transactions")
-![Alt text](/SCREENSHOTS/Screenshot 4.png?raw=true "Execute Transactions")
-![Alt text](/SCREENSHOTS/Screenshot 5.png?raw=true "Transaction table")
+<img src="https://raw.githubusercontent.com/poojamodi21/Banking-System/master/SCREENSHOTS/Screenshot%201.png" alt="Home page" raw=true/>
+<img src="https://raw.githubusercontent.com/poojamodi21/Banking-System/master/SCREENSHOTS/Screenshot%202.png" alt="Customers Table" raw=true/>
+<img src="https://raw.githubusercontent.com/poojamodi21/Banking-System/master/SCREENSHOTS/Screenshot%203.png" alt="Execute Transactions" raw=true/>
+<img src="https://raw.githubusercontent.com/poojamodi21/Banking-System/master/SCREENSHOTS/Screenshot%204.png" alt="Execute Transactions" raw=true/>
+<img src="https://raw.githubusercontent.com/poojamodi21/Banking-System/master/SCREENSHOTS/Screenshot%205.png" alt="Transaction table" raw=true/>
+
 
 
 The main objective of the Banking system is to provide a simple yet fully functional UI for executing transactions from one users account to another user. This project utilizes all the CRUD features. It uses React on the client side, Express on backend and MongoDB as the database.
