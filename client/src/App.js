@@ -6,7 +6,7 @@ import CustomerTable from "./components/CustomerTable";
 import TransactionTable from "./components/TransactionTable";
 import {Route,BrowserRouter} from "react-router-dom"
 import Register from './components/register';
-//8tQ77vbvVcbgKDDH
+
 
 function App() {
   return (
